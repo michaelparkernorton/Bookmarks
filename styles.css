@@ -27,8 +27,8 @@ h1 {
 }
 
 main {
-  display: flex;;
-  justify-content: space-around;
+  display: flex;
+  flex-wrap:wrap;
 	width: 80%;
 }
 
@@ -43,4 +43,5 @@ a {
 	text-align: center;
 	text-decoration: none;
 	border-radius: 10%;
+  margin: 20px;
 }
