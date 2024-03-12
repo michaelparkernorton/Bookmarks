@@ -1,5 +1,3 @@
-console.log("hello");
-
 import data from "../Bookmarks/json/fullstack/week10.json" assert { type: "json" };
 
 //create a new div element
