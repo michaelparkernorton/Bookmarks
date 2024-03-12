@@ -1,6 +1,6 @@
 console.log("hello");
 
-import data from "/json/fullstack/week10.json" assert { type: "json" };
+import data from "../Bookmarks/json/fullstack/week10.json" assert { type: "json" };
 
 //create a new div element
 const newDiv = document.createElement("div");
