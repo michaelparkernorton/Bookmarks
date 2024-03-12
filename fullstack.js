@@ -1,5 +1,8 @@
 import data from "../Bookmarks/json/fullstack/week10.json" assert { type: "json" };
 
+//local ref
+// import data from "/json/fullstack/week10.json" assert { type: "json" };
+
 //create a new div element
 const newDiv = document.createElement("div");
 newDiv.classList.add("group");
