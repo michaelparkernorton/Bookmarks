@@ -1,4 +1,4 @@
-import data from "../Bookmarks/json/fullstack/week10.json" assert { type: "json" };
+import data from "./json/fullstack/week10.json" assert { type: "json" };
 
 //local ref
 // import data from "/json/fullstack/week10.json" assert { type: "json" };
