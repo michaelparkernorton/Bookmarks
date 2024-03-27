@@ -1,4 +1,4 @@
-import data from "./json/fullstack/week11.json" assert { type: "json" };
+import data from "./json/fullstack/week12.json" assert { type: "json" };
 
 //local ref
 // import data from "/json/fullstack/week10.json" assert { type: "json" };
@@ -8,7 +8,7 @@ const newDiv = document.createElement("div");
 newDiv.classList.add("group");
 //create a new h1 elemnt
 const newH2 = document.createElement("h2");
-newH2.textContent = "Canvas Week 10";
+newH2.textContent = "Canvas Week 12";
 newDiv.appendChild(newH2);
 
 data.forEach((link) => {
